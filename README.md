@@ -1,7 +1,6 @@
-This is project, when I am learning git, so I decide to make first public project on GitHub through git.
+I decided to make this project for two reasons's. The first one is to make my new web porfolio (in Czech you can say webová vizitka/web signature). For second reason I need to learn git for education and commerce things.
 
-ToDo: edit all web, add mob.jpg and changes all ty img.
+Curse of git I started 17. September and ended 18. September. 
+This site I make for couple of hours.
 
-edit
-# web-portfolio
-next change
+18092021
