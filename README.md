@@ -1,4 +1,4 @@
-# wWeb signature
+# Web signature
 
 I decided to make this project for two reasons. The first one is to make my new web-portfolio (in Czech you can say webová vizitka/web signature). For the second reason I need to learn git for education and commerce things.
 
